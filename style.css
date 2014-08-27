@@ -637,6 +637,7 @@ xxx.menu-toggle {
 .entry-content table {padding:10px;}
 
 @media screen and (max-width: 600px) {
+	#page {padding:0px;}
 	#secondary {padding:0px;background-color:#fff;width:100%;}
 	#primary {padding:0px;background-color:#fff;width:100%;}
 	xxx#page{padding:10px;}
